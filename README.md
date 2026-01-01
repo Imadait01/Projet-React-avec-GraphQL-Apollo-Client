@@ -1,7 +1,5 @@
 # 🏦 Gestion des Comptes et Transactions
 
-<img width="1360" height="593" alt="image" src="https://github.com/user-attachments/assets/bfaef485-6642-4e31-b32c-bf6d0d08597d" />
-
 ## Description
 
 Application React de gestion de comptes bancaires et de transactions utilisant GraphQL et Apollo Client.
@@ -57,5 +55,4 @@ src/
 ```
 
 ---
-
-**Projet pédagogique TP-16**
+<img width="1360" height="593" alt="image" src="https://github.com/user-attachments/assets/bfaef485-6642-4e31-b32c-bf6d0d08597d" />
